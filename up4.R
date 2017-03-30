@@ -9,8 +9,6 @@
 library('ISLR')
 library('GGally')
 library('MASS')
-library('mlbench')
-data(BreastCancer)
 
 ?Titanic
 
