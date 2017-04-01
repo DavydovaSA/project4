@@ -1,3 +1,5 @@
+# Упражнение 4 (Вариант 2)
+
 library('ISLR')
 library('GGally')
 library('MASS')
